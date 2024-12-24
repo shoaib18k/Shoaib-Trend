@@ -670,7 +670,9 @@ footer a:hover{
   color: #4669a9;
 }
 
-
+#sm-banner .banner-box {
+  min-width: 375px;
+ 
 }
 
 
